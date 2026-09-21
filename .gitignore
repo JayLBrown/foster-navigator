@@ -20,3 +20,9 @@ web/migrations/0006_prod_accounts.sql
 
 # macOS
 .DS_Store
+
+# session scratch — HANDOFF.md at the repo root is the live copy
+Claude outputs/
+
+# session scratch — HANDOFF.md at the repo root is the live copy
+Claude outputs/
