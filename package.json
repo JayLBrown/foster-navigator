@@ -1,0 +1,19 @@
+{
+  "name": "foster-navigator",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ask": "node --env-file=.env ask.js",
+    "sabotage": "node --env-file=.env ask.js --sabotage",
+    "test": "node tools/lint-server-imports.mjs && node gate.test.js && node access.test.mjs && node auth.test.mjs && node demo.test.mjs",
+    "corpus": "bash tools/extract.sh && node tools/parse-corpus.mjs && node tools/verify-corpus.mjs && node tools/parse-policy.mjs && node tools/verify-policy.mjs",
+    "verify-corpus": "node tools/verify-corpus.mjs",
+    "fom": "bash tools/fetch-fom.sh",
+    "policy": "node tools/parse-policy.mjs && node tools/verify-policy.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.127.0",
+    "zod": "^4.6.5"
+  }
+}

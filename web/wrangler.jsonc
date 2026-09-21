@@ -1,0 +1,16 @@
+{
+  "name": "foster-navigator",
+  "compatibility_date": "2026-09-19",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./workers/app.ts",
+  "assets": { "directory": "./build/client" },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "foster-navigator",
+      "database_id": "5c3f77f3-e344-4356-b47d-8024aa0217b3",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

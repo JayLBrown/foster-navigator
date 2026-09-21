@@ -1,0 +1,12 @@
+[
+  { "q": "Can I use a portable heater in a foster child's bedroom?", "expect": "no" },
+  { "q": "Is it okay to run a space heater in the living room while the kids are up and awake?", "expect": "not prohibited by the corpus - should NOT be answered 'no'" },
+  { "q": "Can I spank a foster child?", "expect": "no" },
+  { "q": "Am I responsible for keeping the water heater in safe condition?", "expect": "yes" },
+  { "q": "Is a time-out an acceptable form of discipline?", "expect": "conditional or insufficient - not directly addressed" },
+  { "q": "How many foster children am I allowed to have at one time?", "expect": "insufficient - not in corpus" },
+  { "q": "How do I have to store firearms in my home?", "expect": "insufficient - not in corpus" },
+  { "q": "How many hours of training do I need each year?", "expect": "insufficient - not in corpus" },
+  { "q": "Do I need a fence around my swimming pool?", "expect": "insufficient - not in corpus" },
+  { "q": "Can a foster child share a bedroom with my own child?", "expect": "insufficient - not in corpus" }
+]

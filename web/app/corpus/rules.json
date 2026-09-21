@@ -1,0 +1,1026 @@
+{
+  "corpus_status": "complete",
+  "source_document": "Michigan Administrative Code, Foster Family Homes and Foster Family Group Homes",
+  "source_file": "source/R 400.9101 to R 400.9506.pdf",
+  "authority": "1973 PA 116 (child care organizations act)",
+  "publisher": "Michigan Department of Health and Human Services",
+  "effective_date": "2023-06-16",
+  "retrieved": "2026-09-19",
+  "rescinded_rules": [
+    "R 400.9199",
+    "R 400.9207",
+    "R 400.9307"
+  ],
+  "rules": [
+    {
+      "rule_number": "R 400.9101(1)",
+      "heading": "Definitions",
+      "body": "As used in these rules: (a) \"Act\" means 1973 PA 116, MCL 722.111 to 722.128. (b) \"Agency\" means the child placing agency that certifies the foster home for licensure by the department. (c) “Corporal punishment” means hitting, paddling, shaking, slapping, spanking, or any other use of physical force as a means of discipline, punishment, or behavior management. (d) \"Department\" means the Michigan department of health and human services. (e) \"Foster care\" means a child's placement outside the child's parental home by and under the supervision of a child placing agency, the court, or the department. Foster care does not include the delegation of a parent's or guardian's powers regarding care, custody, or property of a child or ward under a properly executed power of attorney under the safe families for children act, 2018 PA 434, MCL 722.1551 to 722.1567. (f) \"Foster child\" means a person who meets both of the following criteria: (i) Resides in an out-of-home placement based on a court order or is temporarily placed by a parent or guardian for a limited time in a foster home as defined by the act or has been released by a parent to the department or a child placing agency pursuant to section 22 of the probate code of 1939, 1939 PA 288, MCL 710.22. (ii) Is either of the following: (A) Placed with or committed to the department for care and supervision by a court order under section 2 of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.2. (B) Is 18 years of age or older, was in foster care prior to turning 18, and agrees to remain in care following termination of court jurisdiction. (g) “Foster parent\" means the person or persons, including tribal members, to whom a foster home license is issued. (h) “Gender” or “gender identity” means a person’s internal identification or self-image as a man, boy, woman, girl, or another gender identity. (i) “Gender expression” means how a person publicly expresses or presents their gender, which may include behavior and outward appearance such as dress, hair, make-up, body language, and voice. Components of gender expression may or may not align with gender identity. (j) \"Infant\" means a child between birth and the date of the child’s first birthday. (k) “Sexual orientation” means a person's identity in relation to the gender or genders to which they are attracted. (l) “Social services worker” means a person who performs social service functions prescribed by these rules. (m) “SOGIE” means an individual’s sexual, orientation, gender, identity, and expression.",
+      "doc_id": "R 400.9101",
+      "part": 1,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9101(2)",
+      "heading": "Definitions",
+      "body": "A term defined in the act has the same meaning when used in these rules.",
+      "doc_id": "R 400.9101",
+      "part": 1,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9102(1)",
+      "heading": "Rule variance",
+      "body": "The department may grant a variance from an administrative rule if all the following provisions are satisfied: (a) The agency and the foster parent have reviewed and agreed with the request. (b) The agency requests the variance, in writing, from the department. (c) The proposed variance from the rule ensures that the health, care, safety, protection, and supervision of a foster child are maintained.",
+      "doc_id": "R 400.9102",
+      "part": 1,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9102(2)",
+      "heading": "Rule variance",
+      "body": "The decision of the department, including the conditions for which the variance is granted, must be entered upon the records of the department and a signed copy sent to the agency and the foster parent. The variance may be time-limited or may remain in effect as long as the foster parent continues to ensure that the health, care, safety, protection, and supervision of foster children are maintained.",
+      "doc_id": "R 400.9102",
+      "part": 1,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9201(1)",
+      "heading": "Foster home applicant /licensee qualifications; central registry check",
+      "body": "A foster home applicant or licensee must meet all the following qualifications: (a) Be 18 years of age or older. (b) Be willing and can demonstrate the ability to meet the following requirements for children who are served by the agency: (i) How to provide care. (ii) Understanding the care needed and the ability to meet those care needs. (iii) Has adequate time to provide care and supervision. (iv) Work with a foster child’s current and future family. (v) Willingness to accept a child’s spirituality, or religious beliefs or practices, even if they are different from the foster parent. (vi) Willingness to accept and support a child’s SOGIE. (c) Have a source of income or resources to meet the needs of the foster family. (d) Have the physical, mental, and emotional health to ensure appropriate care of children. (e) Be of responsible character and be suitable and able to meet the needs of children and provide for their care, supervision, and protection. (f) Be residing in the United States legally.",
+      "doc_id": "R 400.9201",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9201(2)",
+      "heading": "Foster home applicant /licensee qualifications; central registry check",
+      "body": "In addition to the qualifications in subrule (1), an applicant may also live on a reservation or may be a confirmed member of a federally recognized Indian tribe.",
+      "doc_id": "R 400.9201",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9201(3)",
+      "heading": "Foster home applicant /licensee qualifications; central registry check",
+      "body": "If an applicant is identified on the state central registry as a perpetrator of child abuse or neglect in this state, any other state, a Canadian province, or as part of a tribe, the applicant may not be licensed.",
+      "doc_id": "R 400.9201",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9202",
+      "heading": "Member of household qualifications; central registry",
+      "body": "If an adult member of the household is identified on the central registry as a perpetrator of child abuse or neglect in this state, any other state, a Canadian province, or as part of a tribe, the applicant may not be licensed.",
+      "doc_id": "R 400.9202",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9203",
+      "heading": "Orientation",
+      "body": "Before completing and submitting an application for an original license or transferring a license to another certifying agency, each applicant/licensee for a foster home license must attend orientation pursuant to R 400.12307.",
+      "doc_id": "R 400.9203",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9204(1)",
+      "heading": "Application submission",
+      "body": "A foster home applicant must complete, acknowledge, and submit an application.",
+      "doc_id": "R 400.9204",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9204(2)",
+      "heading": "Application submission",
+      "body": "In a multiple-caregiver household, all applicants must acknowledge the application.",
+      "doc_id": "R 400.9204",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9204(3)",
+      "heading": "Application submission",
+      "body": "An agency may consider an application withdrawn after 60 days if the applicant fails to cooperate, after attempts to actively engage the family, with the completion of the licensing process, provided there are no known non-compliances that would result in disciplinary action.",
+      "doc_id": "R 400.9204",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(1)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "A foster home applicant or licensee must provide the agency with the name of, and a signed release for a criminal history and child protective services check to obtain any of the following information from each adult member of the household, including children who turn 18 years of age while living in the home: (a) Conviction of a crime other than a minor traffic violation. (b) Involvement in substantiated abuse or neglect of a child or adult. (c) Placement on court-supervised parole or probation.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(2)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "If an applicant, licensee, or adult member of the household identifies as a member of a federally recognized Indian tribe or identifies that they have lived on a reservation, the certifying child placing agency must contact the specific tribal jurisdiction, including tribal social services or the tribal court, to determine whether that jurisdiction has relevant background information to provide to the department regarding the licensing approval. The department may proceed with the licensing application process using all other factors for licensing approval of the home if there is no tribal response.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(3)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "A foster home applicant or licensee must undergo a fingerprint-based, criminal history check.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(4)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "Any adult member of the household must undergo a state-based criminal history background check and, if applicable, contact with the appropriate jurisdiction as referenced in subrule (2) of this rule.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(5)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "A license may not be issued or maintained by an applicant or licensee unless the department has made a determination under section 2 of 1974 PA 381, MCL 338.42, regarding the applicant or licensee’s “good moral character” and convictions.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9205(6)",
+      "heading": "Criminal history; central registry; “good moral character;” convictions",
+      "body": "A foster parent must provide the agency with the name of any adult who moves into a licensed foster home within 3 working days, or upon the agency’s request. A release must be signed by the adult to obtain the information required in subrule (1) of this rule.",
+      "doc_id": "R 400.9205",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9206",
+      "heading": "Foster home evaluation",
+      "body": "A foster home applicant/licensee must do all the following: (a) Allow the agency access to the foster home and any other buildings located on the premises for licensing and foster child supervision purposes. (b) Provide accurate and truthful information on an ongoing basis regarding the following: (i) The applicant or licensee’s family and marital status and history, including the current and previous level of family functioning and relationships, and any current and previous incidents of domestic violence, elder abuse, or child abuse, either as a perpetrator or victim. (ii) The circumstances surrounding any criminal convictions or arrests for each member of the household, including minor children. (iii) Current or past physical, mental, and emotional health of each member of the household, including substance use, abuse, or treatment. (iv) Parenting skills and strategies for building healthy relationships with children. (v) Methods of discipline of children. (vi) Adjustment and special needs of the applicant’s own children, including children not living in the home. (vii) Previous licenses or experience in providing child foster care, child day care, or adult foster care. (viii) Existence of a social support system including alternate care providers. (ix) Willingness to accept a child’s spirituality, or religious beliefs or practices, even if they are different from the foster parent. (x) Willingness to accept and support a child’s SOGIE. (xi) Safety and maintenance of the applicant’s house and property, including, but not limited to, sufficient beds and sleeping space, pets, firearms and other weapons, and water hazards. (xii) The age, number, SOGIE, race, ethnic background, and special characteristics of children preferred by the applicants, including those characteristics that an applicant or licensee would not accept. (c) Provide the agency with all the following: (i) Three current references related or non-related to the applicant/licensee. (ii) Verification of completed pre-licensure training for each person listed on the license as outlined in R 400.12312(2) and (3). (iii) A medical statement that includes all treatments, prescriptions, and medications for each member of the household that indicates the member has no known condition which would affect the care of a foster child. The statement must be signed by a physician, physician assistant, or nurse practitioner within the 12-month period preceding the date of the initial evaluation. Any subsequent household member added to the household must provide the medical statement within 90 days. (iv) Information regarding any past or current mental health treatment by any member of the household.",
+      "doc_id": "R 400.9206",
+      "part": 2,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(1)",
+      "heading": "Maintenance",
+      "body": "A foster parent shall ensure the home, grounds, and all structure on the grounds of the property are maintained in a clean, safe, and sanitary condition, and in a reasonable state of repair within community standards.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(2)",
+      "heading": "Maintenance",
+      "body": "A foster parent shall ensure that all animals are safe to be around members of the household and children who may be placed in the home. Animals must be vaccinated in accordance with the state, tribal, and local laws where the foster home is located.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(3)",
+      "heading": "Maintenance",
+      "body": "Children must be supervised during any water activity as appropriate for their age and functioning level.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(4)",
+      "heading": "Maintenance",
+      "body": "Swimming pools on the premises must meet all the following: (a) State, tribal, and local safety requirements. (b) Availability of rescue equipment at all times. (c) A working pump and filtering system if the swimming pool cannot be emptied after each use. (d) A swimming pool that cannot be emptied after each use must have a barrier on all sides and access through the barrier must be equipped with a safety device. For more information, access “Safety Barrier Guidelines for Residential Pools” on the U.S. Consumer Product Safety Commission website.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(5)",
+      "heading": "Maintenance",
+      "body": "Spas or hot tubs must have safety covers that are locked when not in use.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9301(6)",
+      "heading": "Maintenance",
+      "body": "There must be an alarm on any exterior door that leads directly to a pond or other body of water, and water rescue equipment must be available at all times.",
+      "doc_id": "R 400.9301",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9302(1)",
+      "heading": "Heat, light, and ventilation",
+      "body": "A foster parent shall ensure that the foster home heat, light, and ventilation is adequate.",
+      "doc_id": "R 400.9302",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9302(2)",
+      "heading": "Heat, light, and ventilation",
+      "body": "A foster parent shall ensure that the foster home windows and doors are screened if used for ventilation. This subrule does not apply to those homes where windows or doors, or both, are not used for ventilation.",
+      "doc_id": "R 400.9302",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9303(1)",
+      "heading": "Flame and heat-producing equipment; maintenance",
+      "body": "A foster parent shall ensure that all the following items are maintained in safe condition: (a) Furnace. (b) Water heater. (c) Fireplace. (d) Pipes. (e) Radiators. (f) Wood-burning stoves. (g) Other flame-producing or heat-producing equipment.",
+      "doc_id": "R 400.9303",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9303(2)",
+      "heading": "Flame and heat-producing equipment; maintenance",
+      "body": "Portable heating devices may not be used in bedrooms.",
+      "doc_id": "R 400.9303",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9304(1)",
+      "heading": "Smoke detectors; carbon monoxide detectors",
+      "body": "A foster parent shall ensure that at least 1 single-station smoke detector that is approved by a nationally recognized testing laboratory is installed and maintained as follows: (a) On each floor of the home, including the basement. (b) Between the sleeping area and the rest of the home. In a home that has more than 1 sleeping area, a foster parent shall ensure that a smoke detector is installed and maintained to protect each separate sleeping area. (c) In areas of the home that contain flame or heat-producing equipment other than domestic stoves and clothes dryers.",
+      "doc_id": "R 400.9304",
+      "part": 3,
+      "effective_date": null,
+      "history": "1998-2000 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9304(2)",
+      "heading": "Smoke detectors; carbon monoxide detectors",
+      "body": "A foster parent shall ensure that at least 1 carbon monoxide detector that is approved by a nationally recognized testing laboratory is installed and maintained in an area of the home as recommended by the manufacturer.",
+      "doc_id": "R 400.9304",
+      "part": 3,
+      "effective_date": null,
+      "history": "1998-2000 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9305",
+      "heading": "Bathrooms; water supply; sewage disposal",
+      "body": "A foster parent shall ensure the foster home has or complies with all the following: (a) A minimum of 1 flush toilet, 1 sink that has running water, and 1 bathtub or shower that has running water, all of which must be in working order. (b) The temperature of water available from outlets accessible to a foster child may not exceed 120 degrees Fahrenheit. (c) The foster home has bathroom facilities that are readily accessible to the foster child who regularly requires the use of a wheelchair, walker, or any other durable medical equipment. (d) The foster home water supply is from a source that is approved for a private home by the health authority. (e) All sewage is disposed of through a public system or, in the absence of a public system, in a manner that is approved for a private home by the health authority.",
+      "doc_id": "R 400.9305",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9306(1)",
+      "heading": "Bedrooms",
+      "body": "A foster parent shall ensure that bedrooms comply with all the following provisions: (a) Provide an adequate opportunity for both rest and privacy and access to adult supervision as appropriate for the age and functioning level of each child. The use of video cameras in a bedroom of any foster child over the age of 2 is strictly prohibited. (b) Have sufficient space for all the following: (i) Occupants. (ii) Beds with adequate head clearance for each child. (iii) Space to store clothing and personal belongings. (iv) A clear path to the bed, belongings, and the door. (c) Have floor-to-ceiling permanently affixed walls, and painted or sealed surfaces, privacy barriers, and hazard-free flooring. (d) Have a latchable door that leads directly to a means of egress. As used in this rule, latchable means that the door can be closed and will remain closed until someone opens it. Latchable does not mean lockable. (e) Have at least 1 outside window that complies with all the following: (i) Is accessible to the room’s occupant or occupants. (ii) Can be readily opened from the inside of the room. (iii) Is of sufficient size and design to allow for the evacuation of the room’s occupant or occupants. (f) If a family member occupies or uses a level of a home that is above the second floor, then the building must have 2 exits to ground level, at least 1 of which must provide a direct means of egress to the outside at ground level. (g) The bedroom must be free from of all the following: (i) Furnace. (ii) Water heater. (iii) Portable heating devices.",
+      "doc_id": "R 400.9306",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9306(2)",
+      "heading": "Bedrooms",
+      "body": "A room that is primarily used for purposes other than sleeping may not be used as a bedroom, and includes the following: (a) A hall. (b) A closet. (c) A stairway. (d) A garage. (e) A shed. (f) A detached building. (g) A room or space, including an attic, that is accessible only by a ladder, folding stairway, or through a trapdoor. (h) A common area of the home.",
+      "doc_id": "R 400.9306",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9306(3)",
+      "heading": "Bedrooms",
+      "body": "A foster parent shall ensure that bedding and sleeping equipment comply with all following: (a) The standards set forth in the U.S. Consumer Product Safety Commission, Safety Standards for Full Size Baby Cribs and Non-Full Size Baby Cribs; Final Rule, 16 CFR parts 1219, 1220, and 1500, (http://www.cpsc.gov) for the age of the child using the equipment. (b) Pillows, linens, and mattresses must be clean, safe, age appropriate, and in good repair. (c) Infants, birth to 12 months of age, must rest or sleep alone only in a crib, bassinet, or Pack ‘n Play, based on the age, size, and needs of the infant. (d) A foster parent must follow the department’s safe sleep practices located at www.michigan.gov/dhhs. (e) Objects may not be placed or draped over a crib, bassinet, or Pack ‘n Play, and an infant’s head may not be covered during sleep. (f) The foster parent must have the appropriate sleeping equipment available in the home prior to licensure or a change in terms for all children who will be covered under the terms of the license.",
+      "doc_id": "R 400.9306",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9308(1)",
+      "heading": "Telephone",
+      "body": "A foster parent shall ensure that a working telephone is available in the foster home or in close walking proximity to the foster home.",
+      "doc_id": "R 400.9308",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9308(2)",
+      "heading": "Telephone",
+      "body": "A foster parent shall ensure that emergency telephone numbers, including Poison Control, are posted in a prominent place in the home.",
+      "doc_id": "R 400.9308",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9308(3)",
+      "heading": "Telephone",
+      "body": "The foster parent must provide the telephone number to the certifying agency and inform the agency within 24 hours if the number changes.",
+      "doc_id": "R 400.9308",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9309",
+      "heading": "Wheelchair access; other durable medical equipment",
+      "body": "A foster parent shall ensure that a foster home that provides care to a foster child who regularly requires the use of a wheelchair, a walker, or any other durable medical equipment, is accessible.",
+      "doc_id": "R 400.9309",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9310(1)",
+      "heading": "Smoking",
+      "body": "An individual may not smoke any substance inside the foster home while foster children are placed in the home.",
+      "doc_id": "R 400.9310",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9310(2)",
+      "heading": "Smoking",
+      "body": "An individual may not smoke any substance inside a vehicle while transporting foster children.",
+      "doc_id": "R 400.9310",
+      "part": 3,
+      "effective_date": "2023-06-16",
+      "history": "2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(1)",
+      "heading": "Child capacity; living arrangement",
+      "body": "Both of the following apply to the capacity of a foster home: (a) Not more than 8 children under 17 years of age, including children of the foster parents, may live in or receive foster care in a foster home at any given time. (b) If a foster home is concurrently licensed for childcare, the total number of children under 17 years of age, including children of the foster parents, who live in or receive care in the foster home, may not exceed 12. The foster home must comply with all applicable licensing rules for both foster homes and childcare homes.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(2)",
+      "heading": "Child capacity; living arrangement",
+      "body": "All children in the home must be treated equitably, meaning each child has similar sleeping arrangements as other household members.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(3)",
+      "heading": "Child capacity; living arrangement",
+      "body": "Foster parent or parents must designate sleeping arrangements that are appropriate for each child’s age, SOGIE, medical and mental health needs, behavior, and history of abuse.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(4)",
+      "heading": "Child capacity; living arrangement",
+      "body": "A child who is non-ambulatory and cannot readily be carried by 1 member of the household must sleep in a bedroom that has a means of exiting at ground level.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(5)",
+      "heading": "Child capacity; living arrangement",
+      "body": "A child may not share a bedroom with a non-parent adult unless 1 of the following conditions exists: (a) The child and adult are siblings. (b) The child and adult are foster siblings who were sharing the bedroom prior to 1 of them turning 18 years of age. (c) The child has a special medical need that requires the attention of an adult during sleeping hours.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9401(6)",
+      "heading": "Child capacity; living arrangement",
+      "body": "Each child must sleep alone or may share a bed with a sibling in a bed based on the functioning level, size, and other special needs of the child.",
+      "doc_id": "R 400.9401",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9402",
+      "heading": "Child placement",
+      "body": "A foster parent shall receive a foster child for care only within the approved placement specifications and the terms of the foster home license. Placement of a foster child must only be received from the agency that certified the home or from another agency with the prior approval of the agency that certified the home.",
+      "doc_id": "R 400.9402",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9403",
+      "heading": "Foster parent duties",
+      "body": "A foster parent shall carry out each of the following functions: (a) Cooperate with and assist the agency in the agency's implementation of the service plan for children and their families. (b) Fully disclose to the agency information concerning a foster child's progress, strengths, and needs. (c) Provide written notification to the agency of the need for a foster child to be moved from the foster home not less than 14 calendar days before the move, except when a delay would jeopardize the foster child's care or safety or the safety of members of the foster family.",
+      "doc_id": "R 400.9403",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9404(1)",
+      "heading": "Behavior management",
+      "body": "A foster parent must follow the behavioral support plan developed for each foster child by the child's social services worker.",
+      "doc_id": "R 400.9404",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9404(2)",
+      "heading": "Behavior management",
+      "body": "A foster parent may use reasonable methods of physical intervention to prevent a foster child from harming himself or herself or other persons.",
+      "doc_id": "R 400.9404",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9404(3)",
+      "heading": "Behavior management",
+      "body": "A foster parent may not physically discipline or use corporal punishment for any reason with a foster child and will intervene with a child in ways that are trauma-responsive, positive, and consistent, and are based on each foster child’s needs, stage of development, and behavior. Children must always be treated with dignity, sensitivity, compassion, and respect.",
+      "doc_id": "R 400.9404",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9404(4)",
+      "heading": "Behavior management",
+      "body": "All the following are prohibited: (a) Corporal punishment, any type of restraint, or any kind of punishment inflicted on the body. (b) Confinement in an area such as a closet or locked room. (c) Withholding food, clothing, rest, toilet use, or entrance to the foster home. (d) Mental or emotional cruelty. (e) Verbal abuse, including the use of derogatory or discriminatory language, including negative references to the child’s SOGIE, yelling at youth, threats, ridicule, or humiliation. (f) Prohibiting visits or communication with a foster child’s family. (g) Denial of necessary educational, medical, counseling, or social work services.",
+      "doc_id": "R 400.9404",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2011 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9405(1)",
+      "heading": "Religion and spirituality",
+      "body": "An agency’s religion policy must, at a minimum, ensure that the foster child has the opportunity to receive religious instruction and may participate or choose not to participate in religious or spiritual instruction, engage or choose not to engage in religious or spiritual practices, or attend or choose not to attend religious or spiritual services.",
+      "doc_id": "R 400.9405",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9405(2)",
+      "heading": "Religion and spirituality",
+      "body": "A foster child may not be required to attend religious or spiritual services or follow specific religious or spiritual doctrine.",
+      "doc_id": "R 400.9405",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9406",
+      "heading": "Communication",
+      "body": "A foster parent must comply with the agency's communication policy and ensure that a child is able to communicate with family and friends in a manner consistent with the child’s expressed wishes, appropriate to the child’s functioning, and in accordance with the child’s treatment plan.",
+      "doc_id": "R 400.9406",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9407(1)",
+      "heading": "Education",
+      "body": "Within 5 school days of placement, an agency must provide for the enrollment of each child of school age, as defined by state law, into a school program.",
+      "doc_id": "R 400.9407",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9407(2)",
+      "heading": "Education",
+      "body": "A foster parent must cooperate with the agency to implement the education or training plan for a foster child to ensure that a school age child attends school or a training program and will participate with the school or the training program in education planning.",
+      "doc_id": "R 400.9407",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9408",
+      "heading": "Personal possessions",
+      "body": "A foster parent shall comply with all the following: (a) Ensure that a child has his or her personal possessions during placement with the foster family and has them returned when leaving the foster family. (b) Safely store a child’s personal possessions. (c) All gifts and clothing that are purchased for the child during placement with the foster family remain the property of the foster child.",
+      "doc_id": "R 400.9408",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9409(1)",
+      "heading": "Allowance and money",
+      "body": "A foster parent must apply both of the following regarding a child’s allowance and money: (a) General guidelines that provide a monetary range based on a child’s age. (b) Allowance for specific youth will be determined by the social services worker and the foster parent based on the child’s age and treatment needs.",
+      "doc_id": "R 400.9409",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9409(2)",
+      "heading": "Allowance and money",
+      "body": "Any money earned or received directly by the child remains the property of the child.",
+      "doc_id": "R 400.9409",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9410(1)",
+      "heading": "Clothing",
+      "body": "A foster parent must ensure that a foster child has the minimum required clothing specified by the agency’s policy and leaves the foster home with not less than the minimum required clothing.",
+      "doc_id": "R 400.9410",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9410(2)",
+      "heading": "Clothing",
+      "body": "All clothing the child has when he or she arrives at the foster home and all clothing purchased for the child while in the foster home remains the property of the foster child, unless returned to the biological parent or parents.",
+      "doc_id": "R 400.9410",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9411(1)",
+      "heading": "Emergencies",
+      "body": "A foster parent must have a written emergency evacuation plan displayed in a prominent place in the home.",
+      "doc_id": "R 400.9411",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9411(2)",
+      "heading": "Emergencies",
+      "body": "A foster parent must familiarize each member of the household, including the foster child according to the child's ability to understand and persons who provide care and supervision, with the emergency and evacuation procedures.",
+      "doc_id": "R 400.9411",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9411(3)",
+      "heading": "Emergencies",
+      "body": "A foster parent must maintain first aid supplies in the home.",
+      "doc_id": "R 400.9411",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9412(1)",
+      "heading": "Medical and dental care",
+      "body": "A foster parent shall follow the health plan for a foster child as prescribed by a physician, health authority, or the agency.",
+      "doc_id": "R 400.9412",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9412(2)",
+      "heading": "Medical and dental care",
+      "body": "A foster parent shall follow agency approved protocols for medical care of a foster child who is injured or ill.",
+      "doc_id": "R 400.9412",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9412(3)",
+      "heading": "Medical and dental care",
+      "body": "A foster parent shall ensure that all medications, both prescription and nonprescription, are properly stored and are accessible as appropriate for the age and functioning level of the child.",
+      "doc_id": "R 400.9412",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9412(4)",
+      "heading": "Medical and dental care",
+      "body": "A foster parent shall ensure that prescription medication is given or applied as directed by a licensed physician.",
+      "doc_id": "R 400.9412",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9413(1)",
+      "heading": "Supervision",
+      "body": "A foster parent shall always ensure an appropriate level of care and supervision for the foster child, consistent with a child’s age, level of functioning, and treatment plan.",
+      "doc_id": "R 400.9413",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9413(2)",
+      "heading": "Supervision",
+      "body": "A foster parent shall identify at least 1 adult who would care for the foster child for an extended overnight period. The identified adult must have both a central registry and a criminal history background check.",
+      "doc_id": "R 400.9413",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9413(3)",
+      "heading": "Supervision",
+      "body": "A foster parent must notify the agency of any extended, overnight period when a foster child will be out of the home for a period exceeding 3 days.",
+      "doc_id": "R 400.9413",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9413(4)",
+      "heading": "Supervision",
+      "body": "A foster parent must notify any foster child’s care provider of the agency’s policies relating to care and supervision and the care provider must follow the policies.",
+      "doc_id": "R 400.9413",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9414(1)",
+      "heading": "Unusual incident notification",
+      "body": "A foster parent must immediately notify the agency regarding any of the following: (a) The death of a foster child. (b) The removal or attempted removal of a foster child from a foster home by any person not authorized by the agency. (c) The foster child is missing. (d) Any illness or serious injury that results in inpatient hospitalization of a foster child.",
+      "doc_id": "R 400.9414",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9414(2)",
+      "heading": "Unusual incident notification",
+      "body": "A foster parent must notify the agency within 24 hours after the foster parent knows of any of the following: (a) Any injury of a foster child that requires medical treatment by a licensed or registered health care person. (b) A foster child's involvement with law enforcement authorities. (c) Pregnancy of a foster child. (d) Incidences of child-on-child abuse. (e) Involvement with law enforcement by anyone in the home pursuant to a criminal investigation.",
+      "doc_id": "R 400.9414",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9415(1)",
+      "heading": "Hazardous materials",
+      "body": "Federal standards for a foster family or group home include specific safety requirements for weapons, pools, hot tubs, and spas, as these pose a particular preventable danger to children.",
+      "doc_id": "R 400.9415",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2019 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9415(2)",
+      "heading": "Hazardous materials",
+      "body": "Dangerous equipment and objects, weapons, chemicals, medications, poisonous materials, cleaning supplies, and other hazardous materials that may present a risk to children placed in the foster home must be stored securely and out of the reach of children, as appropriate for the age and functioning level of the children.",
+      "doc_id": "R 400.9415",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2019 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9415(3)",
+      "heading": "Hazardous materials",
+      "body": "Unless carried in the licensed home and on the licensed property as permitted by law, firearms and ammunition must be stored as follows: (a) Firearms must be all the following: (i) Locked in compliance with 1 of the following: (A) By a cable-lock. (B) By a trigger-lock. (C) In a gun safe. (D) A solid metal gun case. (E) A solid wood gun case. (ii) Unloaded. (iii) Separate from ammunition; however, as long as the firearm is stored in compliance with paragraph (i)(C) to (E) of this subdivision, the ammunition may be stored together with the firearm in the same locked safe or case. (iv) Inaccessible to children. (b) Ammunition must be stored in a locked location and inaccessible to children. (c) All applicable laws regarding the possession, use, transportation, and storage of firearms and ammunition, including for hunting, still apply. (d) Licensees with a CPL may possess a firearm pursuant to the law in a vehicle on the licensed property, provided it is done so in such a manner to prevent foster children from having access to it, such as being on the licensee’s person or stored in a locked container. (e) Licensees may engage in hunting, range shooting, and target practice with a foster child in accordance with the reasonable and prudent parenting standard as defined in section 1 of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.1.",
+      "doc_id": "R 400.9415",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2019 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9416(1)",
+      "heading": "Foster parent training",
+      "body": "Each licensed foster parent must attend training as required by the agency’s foster parent training plan, totaling to at least 6 hours per year.",
+      "doc_id": "R 400.9416",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9416(2)",
+      "heading": "Foster parent training",
+      "body": "At least 1 adult member of the household must have training in and maintain a current certification in first aid and cardiopulmonary resuscitation from the American Heart Association or the American Red Cross, or other institution approved by the department.",
+      "doc_id": "R 400.9416",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9417(1)",
+      "heading": "Food and nutrition",
+      "body": "A foster parent shall provide a foster child with meals that are nutritious, well-balanced, and of sufficient quantity.",
+      "doc_id": "R 400.9417",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9417(2)",
+      "heading": "Food and nutrition",
+      "body": "A foster parent must allow the foster child to eat with other members of the family and serve a foster child the same meals as other members of the household, unless a special diet has been prescribed by a licensed physician or unless otherwise dictated by differing nutritional requirements related to the child's age, medical condition, or religious beliefs.",
+      "doc_id": "R 400.9417",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9417(3)",
+      "heading": "Food and nutrition",
+      "body": "A foster parent shall ensure that refrigeration is used for perishable foods.",
+      "doc_id": "R 400.9417",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9417(4)",
+      "heading": "Food and nutrition",
+      "body": "If milk is being provided to foster children, a foster parent only serves pasteurized milk products to foster children.",
+      "doc_id": "R 400.9417",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9418",
+      "heading": "Foster child tasks",
+      "body": "A foster child's tasks must be within the child's ability, be reasonable, and be similar to routine tasks expected of other members of the household of similar age and ability.",
+      "doc_id": "R 400.9418",
+      "part": 4,
+      "effective_date": null,
+      "history": "1998-2000 AACS; 2014 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9419",
+      "heading": "Recreation",
+      "body": "A foster parent must provide opportunities for, and encourage a foster child to participate in, a variety of indoor and outdoor recreational activities that are appropriate for the child's age and ability.",
+      "doc_id": "R 400.9419",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9420(1)",
+      "heading": "Transportation",
+      "body": "All transportation must be done in a safe, responsible manner.",
+      "doc_id": "R 400.9420",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9420(2)",
+      "heading": "Transportation",
+      "body": "A foster parent shall ensure that the transportation of the foster child, foster parents, and members of the household is conducted as required by state laws regarding transportation in a motor vehicle.",
+      "doc_id": "R 400.9420",
+      "part": 4,
+      "effective_date": "2023-06-16",
+      "history": "2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9501(1)",
+      "heading": "Reporting suspected child abuse or neglect",
+      "body": "A foster parent who has reasonable cause to suspect abuse or neglect of a child must make a report immediately to the child protective services central intake unit of the department of health and human services.",
+      "doc_id": "R 400.9501",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9501(2)",
+      "heading": "Reporting suspected child abuse or neglect",
+      "body": "If the suspected abuse or neglect occurred in the foster home or to a foster child placed in the foster home, then a foster parent must make a report immediately to both of the following entities: (a) The child protective services central intake unit of the department. (b) The agency.",
+      "doc_id": "R 400.9501",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9501(3)",
+      "heading": "Reporting suspected child abuse or neglect",
+      "body": "The foster parent shall provide a written report as required by section 3 of the child protection law, 1975 PA 238, MCL 722.623.",
+      "doc_id": "R 400.9501",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2007 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9502",
+      "heading": "Reporting foster home changes",
+      "body": "A foster parent shall report to the agency any significant changes in the foster home by the next business day from the time a foster parent knows of a change, including any of the following: (a) Serious illness, injury, or death of a foster parent. (b) Changes in household composition. (c) Arrests and criminal convictions of a foster parent or member of the household. (d) Court-supervised parole or probation of a foster parent or member of the household. (e) Admission to, or release from, a correctional facility, a hospital, or an institution for the treatment of an emotional, mental, or substance abuse problem of a foster parent or member of the household. (f) Assessment, treatment, or therapy on an outpatient basis for an emotional, mental, or substance abuse disorder of a foster parent or member of the household. (g) Any revocation or modification of a driver's license. (h) Any major changes or renovations to the structure of the foster home.",
+      "doc_id": "R 400.9502",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9503(1)",
+      "heading": "License application filing; agency notification",
+      "body": "A foster parent shall notify the agency within 5 calendar days after filing an application for an adult foster care family home license, a family child care home certificate of registration, or a group child care home license.",
+      "doc_id": "R 400.9503",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9503(2)",
+      "heading": "License application filing; agency notification",
+      "body": "If the foster home is licensed concurrently as an adult foster care family home or a child care group home or registered as a family child care home, the foster parent must notify the agency if there is a change in the terms of the adult foster care or child care license or registration.",
+      "doc_id": "R 400.9503",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9504",
+      "heading": "Change of residence; agency notification",
+      "body": "A foster parent shall inform the agency of any change of residence and submit an application for licensure at the new address not less than 4 weeks before a move.",
+      "doc_id": "R 400.9504",
+      "part": 5,
+      "effective_date": null,
+      "history": "1998-2000 AACS; 2014 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9505(1)",
+      "heading": "Confidentiality",
+      "body": "A foster parent shall keep information and records obtained by the foster parent regarding a foster child and a foster child's parents and relatives confidential under section 10(3) of the act, MCL 722.120.",
+      "doc_id": "R 400.9505",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9505(2)",
+      "heading": "Confidentiality",
+      "body": "The requirements in subrule (1) of this rule may not prohibit a foster parent from communicating with any person representing the foster parent in an administrative or judicial proceeding involving the foster parent in licensing, Central Registry expunction, or any civil matter.",
+      "doc_id": "R 400.9505",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9506(1)",
+      "heading": "Record management",
+      "body": "A foster parent shall store and maintain all records received on behalf of the child.",
+      "doc_id": "R 400.9506",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9506(2)",
+      "heading": "Record management",
+      "body": "When a foster child moves from the foster home, all records regarding that child must be returned to the agency.",
+      "doc_id": "R 400.9506",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    },
+    {
+      "rule_number": "R 400.9506(3)",
+      "heading": "Record management",
+      "body": "Upon closure of the foster home license, all records provided by the child placing agency must be returned to the agency.",
+      "doc_id": "R 400.9506",
+      "part": 5,
+      "effective_date": "2023-06-16",
+      "history": "1998-2000 AACS; 2014 AACS; 2023 AACS",
+      "source_status": "verified"
+    }
+  ]
+}

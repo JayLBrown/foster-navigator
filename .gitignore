@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# build output
+web/build/
+web/.react-router/
+
+# local Cloudflare / D1 state
+web/.wrangler/
+.wrangler/
+
+# secrets — .dev.vars holds the Anthropic API key, and the build copies it
+.dev.vars
+*.dev.vars
+.env
+.env.local
+
+# local prod account seeds (the .example is tracked, the filled-in one is not)
+web/migrations/0006_prod_accounts.sql
+
+# macOS
+.DS_Store

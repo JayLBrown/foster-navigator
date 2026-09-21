@@ -1,0 +1,41 @@
+{
+  "name": "foster-navigator-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "react-router dev",
+    "build": "react-router build",
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && wrangler deploy",
+    "typecheck": "react-router typegen && tsc",
+    "db:migrate": "wrangler d1 migrations apply foster-navigator --local",
+    "db:migrate:remote": "wrangler d1 migrations apply foster-navigator --remote",
+    "db:reset": "rm -rf .wrangler/state/v3/d1 && npm run db:setup",
+    "db:shell": "wrangler d1 execute foster-navigator --local --command",
+    "db:setup": "wrangler d1 execute foster-navigator --local --file=./migrations/0001_init.sql && wrangler d1 execute foster-navigator --local --file=./migrations/0002_seed_dev.sql && wrangler d1 execute foster-navigator --local --file=./migrations/0003_auth.sql && wrangler d1 execute foster-navigator --local --file=./migrations/0004_passwords.sql && wrangler d1 execute foster-navigator --local --file=./migrations/0005_seed_passwords.sql",
+    "db:check": "wrangler d1 execute foster-navigator --local --command \"SELECT role, email, full_name FROM profiles\"",
+    "db:setup:remote": "wrangler d1 execute foster-navigator --remote --file=./migrations/0001_init.sql && wrangler d1 execute foster-navigator --remote --file=./migrations/0003_auth.sql && wrangler d1 execute foster-navigator --remote --file=./migrations/0004_passwords.sql",
+    "db:shell:remote": "wrangler d1 execute foster-navigator --remote --command",
+    "secret:key": "wrangler secret put ANTHROPIC_API_KEY"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.127.0",
+    "isbot": "^5.1.36",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router": "^8.4.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.56.0",
+    "@cloudflare/workers-types": "^5.20260919.1",
+    "@react-router/dev": "^8.4.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.0",
+    "wrangler": "^4.135.0"
+  }
+}

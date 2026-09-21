@@ -1,0 +1,15 @@
+-- Production accounts. Copy to 0006_prod_accounts.sql, fill in real names and
+-- emails, then set passwords with tools/set-password.mjs (never in this file).
+--
+-- Specialists are seeded, never self-registered: self-registration would let
+-- anyone create a specialist account and start receiving families' escalations.
+
+INSERT INTO profiles (user_id, role, email, full_name) VALUES
+  ('spec-1',   'specialist', 'SPECIALIST@AGENCY.ORG', 'Specialist Name'),
+  ('parent-1', 'parent',     'PARENT@EXAMPLE.ORG',    'Parent Name');
+
+INSERT INTO specialists (user_id, agency_name, work_email) VALUES
+  ('spec-1', 'Agency Name', 'SPECIALIST@AGENCY.ORG');
+
+INSERT INTO parent_profiles (user_id, specialist_user_id, county) VALUES
+  ('parent-1', 'spec-1', 'County');

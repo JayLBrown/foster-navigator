@@ -1,0 +1,62 @@
+{
+  "_what_this_is": "Complete manifest of the Michigan foster family home licensing rules. Rule NUMBERS and TITLES only - no rule text has been ingested except the 3 sections in rules.json. This is the phase 1 ingestion checklist.",
+  "_reconciled_from": [
+    "2023 final rule filed with the Secretary of State, effective 2023-06-16 (LARA ARS) - contains ONLY amended rules",
+    "CWL-PUB-10, MDHHS publication carrying the pre-2023 text - used for rules the 2023 filing did not touch"
+  ],
+  "_caution": "The compiled admin code (R 400.9101 to 400.9506) is the single authoritative source for the full current set. Its ARS endpoint returned an error on 2026-09-19. Titles below marked source '2020_publication' have NOT been confirmed against the current compiled code.",
+  "_counts": { "active": 43, "rescinded": 3 },
+  "_retrieved": "2026-09-19",
+  "rules": [
+    { "n": "R 400.9101", "part": 1, "title": "Definitions", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9102", "part": 1, "title": "Rule variance", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9199", "part": 1, "title": "Rescission", "status": "rescinded", "amended_2023": false, "title_source": "2020_publication", "text_ingested": false },
+
+    { "n": "R 400.9201", "part": 2, "title": "Foster home applicant/licensee qualifications; central registry check", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9202", "part": 2, "title": "Member of household qualifications; central registry", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9203", "part": 2, "title": "Orientation", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9204", "part": 2, "title": "Application submission", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9205", "part": 2, "title": "Criminal history; central registry; good moral character; convictions", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9206", "part": 2, "title": "Foster home evaluation", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9207", "part": 2, "title": "Foster home reevaluations and special evaluations", "status": "rescinded", "amended_2023": true, "title_source": "2020_publication", "text_ingested": false },
+
+    { "n": "R 400.9301", "part": 3, "title": "Maintenance", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9302", "part": 3, "title": "Heat, light, and ventilation", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9303", "part": 3, "title": "Flame and heat-producing equipment; maintenance", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": true },
+    { "n": "R 400.9304", "part": 3, "title": "Smoke detectors; carbon monoxide detectors", "status": "active", "amended_2023": false, "title_source": "2020_publication", "text_ingested": false },
+    { "n": "R 400.9305", "part": 3, "title": "Bathrooms; water supply; sewage disposal", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9306", "part": 3, "title": "Bedrooms", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9307", "part": 3, "title": "Exits", "status": "rescinded", "amended_2023": true, "title_source": "2020_publication", "text_ingested": false },
+    { "n": "R 400.9308", "part": 3, "title": "Telephone", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9309", "part": 3, "title": "Wheelchair access; other durable medical equipment", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9310", "part": 3, "title": "Smoking", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+
+    { "n": "R 400.9401", "part": 4, "title": "Child capacity; living arrangement", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9402", "part": 4, "title": "Child placement", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9403", "part": 4, "title": "Foster parent duties", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9404", "part": 4, "title": "Behavior management", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": true },
+    { "n": "R 400.9405", "part": 4, "title": "Religion and spirituality", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9406", "part": 4, "title": "Communication", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9407", "part": 4, "title": "Education", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9408", "part": 4, "title": "Personal possessions", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9409", "part": 4, "title": "Allowance and money", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9410", "part": 4, "title": "Clothing", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9411", "part": 4, "title": "Emergencies", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9412", "part": 4, "title": "Medical and dental care", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9413", "part": 4, "title": "Supervision", "status": "active", "amended_2023": true, "title_source": "2023_filing", "note": "Titled 'Substitute care' before the 2023 amendment", "text_ingested": false },
+    { "n": "R 400.9414", "part": 4, "title": "Unusual incident notification", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9415", "part": 4, "title": "Hazardous materials", "status": "active", "amended_2023": true, "title_source": "2023_filing", "note": "Titled 'Hazardous materials and firearm storage' before the 2023 amendment", "text_ingested": false },
+    { "n": "R 400.9416", "part": 4, "title": "Foster parent training", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9417", "part": 4, "title": "Food and nutrition", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9418", "part": 4, "title": "Foster child tasks", "status": "active", "amended_2023": false, "title_source": "2020_publication", "text_ingested": false },
+    { "n": "R 400.9419", "part": 4, "title": "Recreation", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9420", "part": 4, "title": "Transportation", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+
+    { "n": "R 400.9501", "part": 5, "title": "Reporting suspected child abuse or neglect", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9502", "part": 5, "title": "Reporting foster home changes", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9503", "part": 5, "title": "License application filing; agency notification", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9504", "part": 5, "title": "Change of residence; agency notification", "status": "active", "amended_2023": false, "title_source": "2020_publication", "text_ingested": false },
+    { "n": "R 400.9505", "part": 5, "title": "Confidentiality", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false },
+    { "n": "R 400.9506", "part": 5, "title": "Record management", "status": "active", "amended_2023": true, "title_source": "2023_filing", "text_ingested": false }
+  ]
+}
