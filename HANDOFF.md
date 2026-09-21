@@ -210,7 +210,15 @@ corpus update fails the test rather than letting the demo quietly lie.
    holds macOS arm64 binaries and Claude's shell on the machine is Linux, so rolldown's
    native binding won't load.
 2. Verify 390px and 1280px in a real browser. Only statically audited.
-3. **No version control.** Consider `git init` before the submission.
+3. **Version control exists now (2026-09-20).** `git init` on main, two commits, 110 tracked
+   files. `.gitignore` covers `node_modules/`, `web/build/`, `web/.react-router/`,
+   `.wrangler/`, every `.dev.vars` (the build copies one into `web/build/server/`, which is
+   how a key leaks), and the filled-in `0006_prod_accounts.sql`. **Not yet pushed** — no
+   remote is configured.
+   **Before the repo goes public:** `web/migrations/0007_test_accounts.sql` states the shared
+   password in a comment and carries the hashes for `eadams@`, `jbrown@`, `erica.parent@` and
+   `mellery@`, and those accounts are live on the deployed Worker. Change them on the remote
+   D1 (`tools/set-password.mjs`) or delete the rows first. Push it private until then.
 4. Rotate the Anthropic API key.
 5. **Rate-limit `/demo` before sharing the link.** It is public, unauthenticated, and now
    calls the Anthropic API. Cloudflare WAF → Rate limiting rules, one rule on the `/demo`
